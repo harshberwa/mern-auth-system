@@ -14,7 +14,6 @@ This project implements **JWT-based authentication**, **role-based access contro
 - 👤 Role-Based Access Control (User / Admin)
 - 🧠 Auth Context (React Context API)
 - 🔄 Auto logout on token expiry
-- 📊 Admin Dashboard (Role protected)
 - 🎨 Clean & responsive UI (Tailwind CSS)
 
 ---
